@@ -11,7 +11,7 @@ BankAccountDemo-Self
 
 ## Installation
 
-(For steps 3-5, see the screenshot's _shell_ object.)
+(For steps 3-5, see the _shell_ object in **Screenshots** below.)
 
 1. Install and setup [Self](http://www.selflanguage.org/).
 2. Download this project.
@@ -41,7 +41,7 @@ BankAccountDemo-Self
 
 ## Example Usage
 
-(See the screenshot's _bankaccount_ object.)
+(See the _bankaccount_ object in **Screenshots** below.)
 
 Via a _bankaccount_ object, _Do it_:
 
@@ -53,7 +53,7 @@ deposit: 50
 withdraw: 25
 ```
 
-## Screenshot
+## Screenshots
 
 <img src="https://github.com/brackendev/BankAccountDemo-Self/blob/master/screenshot1.png" alt="Screenshot 1" width="608"/>
 
