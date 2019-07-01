@@ -55,9 +55,9 @@ withdraw: 25
 
 ## Screenshot
 
-![Screenshot1](screenshot1.png)
+<img src="https://github.com/brackendev/BankAccountDemo-Self/blob/master/screenshot1.png" alt="Screenshot 1" width="50%"/>
 
-![Screenshot2](screenshot2.png)
+<img src="https://github.com/brackendev/BankAccountDemo-Self/blob/master/screenshot2.png" alt="Screenshot 2" width="50%"/>
 
 ## Acknowledgements
 
