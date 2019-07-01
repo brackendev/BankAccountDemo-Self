@@ -20,7 +20,7 @@ BankAccountDemo-Self
     ```self
     modules init
       registerTree: 'bankaccount'
-      At: '/path/to/bankaccount'
+      At: '/Users/username/Downloads/BankAccountDemo-Self-master/bankaccount'
     ```
     Note: Use the correct "At:" path to the "bankaccount" directory in this project.
 
