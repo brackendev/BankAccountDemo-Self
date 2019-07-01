@@ -22,7 +22,7 @@ BankAccountDemo-Self
       registerTree: 'bankaccount'
       At: '/path/to/bankaccount'
     ```
-    Note: Use the correct "/path/to/bankaccount" path.
+    Note: Use the correct "At:" path to the "bankaccount" directory in this project.
 
 4. Next, _Do it_:
 
