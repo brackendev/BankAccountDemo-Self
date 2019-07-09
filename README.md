@@ -11,8 +11,6 @@ BankAccountDemo-Self
 
 ## Installation
 
-(For steps 3-5, see the _shell_ object in **Screenshots** below.)
-
 1. Install and setup [Self](http://www.selflanguage.org/).
 2. Download this project.
 3. Via a Self shell, _Do it_:
@@ -39,9 +37,9 @@ BankAccountDemo-Self
     bankaccount clone
     ```
 
-## Example Usage
+(For steps 3-5, see the _shell_ object in **Screenshots** below.)
 
-(See the _bankaccount_ object in **Screenshots** below.)
+## Example Usage
 
 Via a _bankaccount_ object, _Do it_:
 
@@ -52,6 +50,8 @@ deposit: 50
 ```self
 withdraw: 25
 ```
+
+(See the _bankaccount_ object in **Screenshots** below.)
 
 ## Screenshots
 
