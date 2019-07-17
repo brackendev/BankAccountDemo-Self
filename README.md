@@ -59,11 +59,6 @@ withdraw: 25
 
 <img src="https://github.com/brackendev/BankAccountDemo-Self/raw/master/screenshot2.png" alt="Screenshot 2" width="219"/>
 
-## Acknowledgements
-
-* [Chris Double](https://bluishcoder.co.nz/) for the [Self Demo: Creating a bank account object](https://www.youtube.com/watch?v=5Jhi5yN9S1o) presentation.
-* [Russell Allen](https://github.com/russellallen) and [contributors](https://github.com/russellallen/self/graphs/contributors) for [Self](http://www.selflanguage.org), the prototype-based dynamic object-oriented programming language, environment, and virtual machine centered around the principles of simplicity, uniformity, concreteness, and liveness.
-
 ## Author
 
 [brackendev](https://www.github.com/brackendev)
