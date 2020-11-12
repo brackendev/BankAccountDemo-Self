@@ -20,7 +20,6 @@ BankAccountDemo-Self
       registerTree: 'bankaccount'
       At: '/Users/username/Downloads/BankAccountDemo-Self-master/bankaccount'
     ```
-    Note: Use the correct "At:" path to the "bankaccount" directory in this project.
 
 4. Next, _Do it_:
 
