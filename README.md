@@ -13,7 +13,7 @@ BankAccountDemo-Self
 
 1. Install and setup [Self](http://www.selflanguage.org/).
 2. Download this project.
-3. Via a Self shell, _Do it_:
+3. Via a Self shell, specify the correct path and _Do it_:
 
     ```self
     modules init
